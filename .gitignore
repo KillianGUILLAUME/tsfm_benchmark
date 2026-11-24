@@ -1,0 +1,9 @@
+.venv/
+.hf_cache/
+data/
+__pycache__/
+.pytest_cache/
+*.log
+results/predictions/
+results/adapters/
+.DS_Store

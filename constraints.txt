@@ -1,0 +1,6 @@
+torch==2.2.2
+numpy<2
+transformers>=4.44,<4.50
+huggingface_hub<1.0
+tokenizers<0.21
+pyarrow==17.0.0
